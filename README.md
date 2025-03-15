@@ -10,7 +10,7 @@ Multivariate Time Series Forecasting is preferable when the variables have depen
 - Besides the target variable (closing price), I identify other influencing factors such as opening price, high, low, volume, etc.
 
 ### 2. Data Collection
-- I gather historical stock market data for multiple stocks.
+- I used historical stock market [data](https://statso.io/forecasting-multiple-variables-case-study/) for multiple stocks.
 - I ensure that the data covers a sufficient time period to capture trends, seasonality, and cyclic behavior.
 
 ### 3. Data Preprocessing
